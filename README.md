@@ -7,5 +7,7 @@
  - Git Bash 설치
  - 작업 디렉토리 설치(C:\Users\유정\Workspace\python-vintage-dish)
  - Git Initial Cloning
+ - git branch develop(develop 브랜치 생성)
  - python3.7.4 설치(path설정)
  - hello_python.py test
+ 
