@@ -10,4 +10,6 @@
  - git branch develop(develop 브랜치 생성)
  - python3.7.4 설치(path설정)
  - hello_python.py test
- 
+ - pip install pipenv(가상환경 설치)
+    pipenv --three (python3 기반의 가상환경 버블 생성)
+    pipenv shell (가상환경 버블 안으로 입장)
