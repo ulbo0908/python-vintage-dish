@@ -5,5 +5,7 @@
 1. 시작
  - Github 가입
  - Git Bash 설치
- - 작업 디렉토리 설정(C:\Users\유정\Workspace\python-vintage-dish)
+ - 작업 디렉토리 설치(C:\Users\유정\Workspace\python-vintage-dish)
  - Git Initial Cloning
+ - python3.7.4 설치(path설정)
+ - hello_python.py test
